@@ -4,7 +4,7 @@ I transform complex data into actionable business insights. My work bridges the 
 
 [Resume PDF](./link-to-your-resume.pdf) | [LinkedIn](your-link) | [Email](your-email)
 
-🎬 Scalable Movie Recommendation System (Apache Spark)
+🎬 **Scalable Movie Recommendation System (Apache Spark)**
 **Business Impact:** Engineered an end-to-end distributed machine learning pipeline to generate personalized recommendations from a dataset of 20M+ ratings. [cite_start]Addressed high data sparsity (3.7B possible interactions) to provide top-N user suggestions with high predictive accuracy. [cite: 7, 11, 17, 61, 63]
 * [cite_start]**Tech Stack:** Apache Spark (MLlib), Databricks, Python, Collaborative Filtering (ALS). [cite: 20, 21, 22, 31]
 * [cite_start]**Key Result:** Achieved a Root Mean Squared Error (RMSE) of ~0.816, demonstrating strong model performance for large-scale collaborative filtering. [cite: 43, 44, 48]
