@@ -9,7 +9,7 @@ I transform complex data into actionable business insights. My work bridges the 
 * **Tech Stack:** Apache Spark (MLlib), Databricks, Python, Collaborative Filtering (ALS). 
 * **Key Result:** Achieved a Root Mean Squared Error (RMSE) of ~0.816, demonstrating strong model performance for large-scale collaborative filtering.
    
-*[View Full Project](https://github.com/crekh/movie-recommendation-spark/tree/main)|[Project Presentation](https://github.com/crekh/movie-recommendation-spark/blob/main/DS610%20-%20Big%20Data%20Analytics%20Project_Presentation.pdf)
+*[View Full Project](https://github.com/crekh/movie-recommendation-spark/tree/main)|[Project Presentation](https://github.com/crekh/movie-recommendation-spark/blob/main/DS610%20-%20Big%20Data%20Analytics%20Project_Presentation.pdf)|[View Python Code](https://github.com/crekh/movie-recommendation-spark/blob/main/Movie_Recommendation_Spark_ALS_Final%20Project.ipynb) | [View Full Repository](https://github.com/crekh/movie-recommendation-spark)
 
 **☕ Starbucks: Digital Transformation & Loyalty Optimization**
 Business Impact: Analyzed customer behavior and digital sales trends to identify drivers for loyalty program engagement and sustainability targets. Provided data-driven recommendations for personalized offer targeting and GHG emission reduction.
