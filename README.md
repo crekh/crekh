@@ -2,7 +2,7 @@
 ### MS Data Science Candidate | Saint Peter's University
 I transform complex data into actionable business insights. My work bridges the gap between graduate-level statistical rigor and real-world application.
 
-[Resume PDF]() | [LinkedIn](your-link) | [Email](your-email)
+[Resume PDF](https://github.com/crekh/crekh/blob/main/Chander%20Rekha%20Sehgal_Resume.pdf) | [LinkedIn](your-link) | [Email](your-email)
 
 🎬 **Scalable Movie Recommendation System (Apache Spark)**
 **Business Impact:** Engineered an end-to-end distributed machine learning pipeline to generate personalized recommendations from a dataset of 20M+ ratings. Addressed high data sparsity (3.7B possible interactions) to provide top-N user suggestions with high predictive accuracy. 
