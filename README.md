@@ -11,7 +11,7 @@ I transform complex data into actionable business insights. My work bridges the 
    
 *[View Full Project](https://github.com/crekh/movie-recommendation-spark/tree/main)|[Project Presentation](https://github.com/crekh/movie-recommendation-spark/blob/main/DS610%20-%20Big%20Data%20Analytics%20Project_Presentation.pdf)|[View Python Code](https://github.com/crekh/movie-recommendation-spark/blob/main/Movie_Recommendation_Spark_ALS_Final%20Project.ipynb) | [View Full Repository](https://github.com/crekh/movie-recommendation-spark)
 
-🌍Urban Warming Trend Analysis | Data Mining & Clustering
+🌍**Urban Warming Trend Analysis | Data Mining & Clustering**
 **Impact**: Identified 4 distinct global climate regimes and quantified warming acceleration. Discovered that rapidly urbanizing "Hot-Variable" cities are warming at double the rate of colder regions.
 **Tech Stack**: Python, K-Means Clustering, Linear Regression, Geospatial Analysis.
 *[View Code  | View Research Poster]
