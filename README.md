@@ -14,7 +14,7 @@ I transform complex data into actionable business insights. My work bridges the 
 🌍**Urban Warming Trend Analysis | Data Mining & Clustering**
 **Impact**: Identified 4 distinct global climate regimes and quantified warming acceleration. Discovered that rapidly urbanizing "Hot-Variable" cities are warming at double the rate of colder regions.
 
-**Tech Stack**: Python, K-Means Clustering, Linear Regression, Geospatial Analysis.
+* **Tech Stack:**: Python, K-Means Clustering, Linear Regression, Geospatial Analysis.
 
 *[View Code  | View Research Poster]
 
