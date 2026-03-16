@@ -16,7 +16,7 @@ I transform complex data into actionable business insights. My work bridges the 
 
 * **Tech Stack:** Python, K-Means Clustering, Linear Regression, Geospatial Analysis.
 
-* *[View Full Project]([https://github.com/crekh/urban-warming-trends])|[View Python Code]([https://github.com/crekh/urban-warming-trends/blob/main/Data_Mining_Project%20(4).ipynb) | [View Research Poster](https://github.com/crekh/urban-warming-trends/blob/main/Urban%20Warming%20Trend%20Analysis_Poster.pdf)
+  *[View Full Project](https://github.com/crekh/urban-warming-trends)|[View Python Code]([https://github.com/crekh/urban-warming-trends/blob/main/Data_Mining_Project%20(4).ipynb]) | [View Research Poster](https://github.com/crekh/urban-warming-trends/blob/main/Urban%20Warming%20Trend%20Analysis_Poster.pdf)
 
 
 
