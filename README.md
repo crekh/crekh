@@ -35,8 +35,7 @@ Key Insight: Built an interactive storyboard highlighting the gap between waste 
 
 Tech: Tableau, SQL, Geospatial Analysis, Census Data Integration.
 
-**[View Full Project](https://github.com/crekh/nyc-waste-analytics/blob/main/README.md)
-[View Tableau Public Story.(https://public.tableau.com/app/profile/rekha.sehgal/viz/Storyboard_UrbanSustainability_WasteDiversionTrendsinNewYork/Story1) | View Repository]
+*[View Full Project](https://github.com/crekh/nyc-waste-analytics/blob/main/README.md)[View Tableau Public Story].(https://public.tableau.com/app/profile/rekha.sehgal/viz/Storyboard_UrbanSustainability_WasteDiversionTrendsinNewYork/Story1) | [View Repository]
 
 
 🍎**NYC Food Scrap Accessibility Analysis**
