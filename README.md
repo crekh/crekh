@@ -16,9 +16,9 @@ I transform complex data into actionable business insights. My work bridges the 
 
 * **Tech Stack:** Python, K-Means Clustering, Linear Regression, Geospatial Analysis.
 
-* *[View Full Project]([https://github.com/crekh/urban-warming-trends])|[View Code](https://github.com/crekh/movie-recommendation-spark/blob/main/DS610%20-%20Big%20Data%20Analytics%20Project_Presentation.pdf)|[View Python Code](https://github.com/crekh/movie-recommendation-spark/blob/main/Movie_Recommendation_Spark_ALS_Final%20Project.ipynb) | [View Research Poster]()
+* *[View Full Project]([https://github.com/crekh/urban-warming-trends])|[View Python Code]([https://github.com/crekh/urban-warming-trends/blob/main/Data_Mining_Project%20(4).ipynb)) | [View Research Poster](https://github.com/crekh/urban-warming-trends/blob/main/Urban%20Warming%20Trend%20Analysis_Poster.pdf)
 
-*[View Full Project].(https://github.com/crekh/urban-warming-trends).[View Code]|View Research Poster]
+
 
 **☕ Starbucks: Digital Transformation & Loyalty Optimization**
 Business Impact: Analyzed customer behavior and digital sales trends to identify drivers for loyalty program engagement and sustainability targets. Provided data-driven recommendations for personalized offer targeting and GHG emission reduction.
