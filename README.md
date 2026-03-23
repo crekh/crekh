@@ -67,7 +67,7 @@ Tech Stack: SSQL, ER Modeling, Database Normalization (3NF), Schema Design.
 
 Key Insight: Established M:N relationship structures to handle multi-departmental faculty and course cross-listings efficiently.
 
-*[View SQL Scripts (https://github.com/crekh/university-db-design/blob/main/University_Enrollment_Database.sql) | View Repository]
+*[View SQL Scripts](https://github.com/crekh/university-db-design/blob/main/University_Enrollment_Database.sql) | View Repository]
 
 🚗 **Auto MPG Fuel Efficiency Analysis | R & Tableau**
 Business Impact: Developed a cross-platform predictive model to identify key drivers of vehicle fuel economy. Validated model performance through rigorous residual analysis on 98 test samples.
