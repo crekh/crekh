@@ -4,6 +4,15 @@ I transform complex data into actionable business insights. My work bridges the 
 
 [Download my Resume PDF](https://github.com/crekh/crekh/blob/main/Chander%20Rekha%20Sehgal_Resume.pdf) | [LinkedIn](your-link) | 
 
+
+🛠 **Skills & Tools**
+Languages: Python (Pandas, Scikit-Learn, NumPy), R (Tidyverse), SQL (PostgreSQL, MySQL).
+Visualization: Tableau (Storyboarding, Advanced Dashboards), Power BI, Plotly, Seaborn.
+Analytical Methods: Linear/Multiple Regression, Geospatial Analysis, Financial Modeling, ER Modeling, Data Normalization.
+Tools: Git/GitHub, Microsoft Excel (Advanced), DBMS.
+Databases: MS Access, SQL (DDL/DML), ER Modeling.
+
+**Projects**
 🎬 **Scalable Movie Recommendation System (Apache Spark)**
 **Business Impact:** Engineered an end-to-end distributed machine learning pipeline to generate personalized recommendations from a dataset of 20M+ ratings. Addressed high data sparsity (3.7B possible interactions) to provide top-N user suggestions with high predictive accuracy. 
 * **Tech Stack:** Apache Spark (MLlib), Databricks, Python, Collaborative Filtering (ALS). 
@@ -68,11 +77,3 @@ Key Insight: Isolated key engine variables that serve as primary drivers for MPG
 
 [View R-Scripts & Notebooks | View Final Report]
 
-🛠 **Skills & Tools**
-Languages: Python (Pandas, Scikit-Learn, NumPy), R (Tidyverse), SQL (PostgreSQL, MySQL).
-
-Visualization: Tableau (Storyboarding, Advanced Dashboards), Power BI, Plotly, Seaborn.
-
-Analytical Methods: Linear/Multiple Regression, Geospatial Analysis, Financial Modeling, ER Modeling, Data Normalization.
-
-Tools: Git/GitHub, Microsoft Excel (Advanced), DBMS.
