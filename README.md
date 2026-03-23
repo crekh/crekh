@@ -37,7 +37,7 @@ Tech: Tableau, SQL, Geospatial Analysis, Census Data Integration.
 
    *[View Full Project](https://github.com/crekh/nyc-waste-analytics/blob/main/README.md)|
    *[View Tableau Public Story](https://public.tableau.com/views/Storyboard_UrbanSustainability_WasteDiversionTrendsinNewYork/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-*[View Video Presentation]
+
 
 
 🍎**NYC Food Scrap Accessibility Analysis**
