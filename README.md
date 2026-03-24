@@ -65,5 +65,5 @@ Tech Stack: R, Tableau, Statistical Modeling.
 
 Key Insight: Isolated key engine variables that serve as primary drivers for MPG performance across 400+ vehicle samples.
 
-[View R-Scripts & Notebooks | View Final Report]
+[View R-Script](https://github.com/crekh/auto-mpg-analysis/blob/main/Final-_Project_March-12_R%20file.pdf) | [View Final Report](https://github.com/crekh/auto-mpg-analysis/blob/main/Final%20Project%20Report_DS%20510.pdf)
 
