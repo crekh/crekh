@@ -37,7 +37,7 @@ Tech Stack: Python, Tableau, Financial Modeling, Marketing Analytics.
 
 Key Insight: Evaluated post-COVID revenue recovery and digital adoption rates to optimize regional performance.
 
-[View Analytical Models | View Dashboard Screenshots]
+[View Full Project](https://github.com/crekh/starbucks-marketing-analytics) | [View Case Study Report](https://github.com/crekh/starbucks-marketing-analytics/blob/main/Starbucks_Case%20Study_Final%20Project.pdf)
 
 ♻️ **NYC Waste Diversion Storyboard | Tableau & Data Storytelling**
 Impact: Translated 10 years of municipal data into an interactive roadmap for sustainability improvements, pinpointing specific "recycling gaps" in underserved NYC neighborhoods.
