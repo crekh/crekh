@@ -49,17 +49,6 @@ Tech: Tableau, SQL, Geospatial Analysis, Census Data Integration.
    *[View Tableau Public Story](https://public.tableau.com/views/Storyboard_UrbanSustainability_WasteDiversionTrendsinNewYork/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-
-🍎**NYC Food Scrap Accessibility Analysis**
-Business Impact: Evaluated service coverage for 500+ composting sites to identify "service deserts." Built geospatial dashboards to improve resident access and support NYC's sustainability planning.
-
-Tech Stack: Python, Power BI, Excel, Geospatial Mapping.
-
-Key Insight: Identified critical gaps in operational hours across underserved boroughs, leading to actionable accessibility recommendations.
-
-[View Repository | Project Report]
-
-
 **🎓 University Relational Database Architecture | SQL & ER Modeling**
 Business Impact: Designed a scalable, normalized relational schema (3NF) to manage complex academic records, ensuring data consistency and scalability for student-faculty record management.
 
